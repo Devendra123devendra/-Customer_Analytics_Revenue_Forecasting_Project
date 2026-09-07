@@ -11,7 +11,8 @@ The analysis helps understand key **revenue drivers**, identify customer trends,
 ## 📊 Project Visualization
 
 <p align="center">
-  <img src="Screenshot%202026-09-07%20163344.png.png" alt="Customer Analytics and Revenue Analysis" width="800" />
+  <img src=-Customer_Analytics_Revenue_Forecasting_Project
+/Screenshot 2026-09-07 163344.png" alt="Customer Analytics and Revenue Analysis" width="800" />
 </p>
 
 ---

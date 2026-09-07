@@ -1,18 +1,19 @@
 # Customer Analytics & Revenue Forecasting Project
 
+
+
+---
+
+## 📊 Project Screenshot
+
+<img src="Screenshot 2026-09-07 163344.png">
+
+---
 ## 📌 Project Overview
 
 This project focuses on analyzing **customer subscription data** using data analytics and data science techniques to uncover meaningful insights related to customer behavior, revenue performance, subscription patterns, and customer retention.
 
 The analysis helps understand key **revenue drivers**, identify customer trends, evaluate subscription performance, and support data-driven business decision-making.
-
----
-
-## 📊 Project Visualization
-
-<img src="Screenshot 2026-09-07 163344.png">
-
----
 
 ## 🎯 Project Objectives
 

@@ -10,7 +10,7 @@ The analysis helps understand key **revenue drivers**, identify customer trends,
 
 ## 📊 Project Visualization
 
-<img src="big-data-science-analysis-information-technology-concept-server-room-background-photo.jpg">
+<img src="Screenshot 2026-09-07 163344.png">
 
 ---
 

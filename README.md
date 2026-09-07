@@ -6,7 +6,8 @@
 
 ## 📊 Project Screenshot
 
-<img src="Screenshot 2026-09-07 163344.png">
+<img src="Screenshot 2026-09-07 163344.png"   width="1200"
+       height="700">
 
 ---
 ## 📌 Project Overview

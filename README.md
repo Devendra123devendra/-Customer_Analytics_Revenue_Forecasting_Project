@@ -30,6 +30,8 @@ behavior, revenue drivers, and future revenue trends.
 
 ## 📷 Project Visualizations
 
+![Customer Analytics](images/customer_analytics.png)
+
 
 
 ## 🎯 Business Impact

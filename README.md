@@ -30,7 +30,7 @@ behavior, revenue drivers, and future revenue trends.
 
 ## 📷 Project Visualizations
 
-![Customer Analytics](images/customer_analytics.png)
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/Customer_Analytics_Revenue_Forecasting_Project/main/images/Screenshot%202026-09-07%20163344.png" width="800">
 
 
 
